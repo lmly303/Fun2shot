@@ -48,7 +48,7 @@ A fast-paced sport where players hit a lightweight ball back and forth across a 
 
 ## Play the Games
 
-You can play all these games by visiting the following link: [Play the Games]([http://yourwebsite.com](https://fun2shot.netlify.app))
+You can play all these games by visiting the following link: [Play the Games](https://fun2shot.netlify.app)
 
 ## Contributing
 
